@@ -28,3 +28,8 @@ The repository includes sample data to demonstrate the structure and use of the 
 
 - MySQL Server installed on your machine.
 - MySQL Workbench or any other SQL client tool.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
