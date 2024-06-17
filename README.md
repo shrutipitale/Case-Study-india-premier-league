@@ -37,10 +37,11 @@ The repository includes sample data to demonstrate the structure and use of the 
 
 Open MySQL Workbench and connect to your database server.
 
-Create a new database:
-   ```bash
+Create a new database:   
+
       CREATE DATABASE ipl_2024;
       USE ipl_2024;
+ 
 
 4.Import the SQL file:
 
