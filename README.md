@@ -42,3 +42,7 @@ Create a new database:
       CREATE DATABASE ipl_2024;
       USE ipl_2024;
 
+4.Import the SQL file:
+
+Open the ipl_2024.sql file in MySQL Workbench.
+Execute the script to create the table and insert the sample data.
