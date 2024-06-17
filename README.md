@@ -33,3 +33,4 @@ The repository includes sample data to demonstrate the structure and use of the 
 
 1. Clone the repository:
    ```bash
+   gh repo clone shrutipitale/india_premier_league
