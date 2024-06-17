@@ -33,7 +33,7 @@ The repository includes sample data to demonstrate the structure and use of the 
 
 1. Clone the repository:
    ```bash
-   gh repo clone shrutipitale/india_premier_league
+   https://github.com/shrutipitale/india_premier_league.git
 
 Open MySQL Workbench and connect to your database server.
 
@@ -41,3 +41,4 @@ Create a new database:
    ```bash
       CREATE DATABASE ipl_2024;
       USE ipl_2024;
+
